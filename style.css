@@ -1,0 +1,45 @@
+*{
+    width: 100%;
+}
+Body{
+    background-color:black;
+    width: 100%;
+background-blend-mode:50px;
+    
+}
+H1{
+    color:white;
+    font-size:45px;
+    text-align:center;
+    border-style:dashed;
+    border-color:red green yellow blue;
+    border-width:17px;
+}
+P{
+    color:white;
+    font-size:67px;
+    text-align:right;
+}
+H2{
+    color:blue;
+    font-size:60px;
+    text-align:right;
+    
+}
+H3{
+    color:green;
+    font-size:60px;
+    border-block:dashed red 15px;
+    text-align:center;
+}
+a{
+    color:yellow;
+    font-size:50px;
+    text-align:center;
+}
+Div{
+    
+}
+Img{
+   align: center; 
+}
